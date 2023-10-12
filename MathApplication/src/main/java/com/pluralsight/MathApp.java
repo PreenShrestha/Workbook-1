@@ -36,7 +36,7 @@ public class MathApp {
         System.out.println("Absolute value of -3.8 is : "+Math.abs(GivenNumber));
 
         //part 7
-        System.out.println(Math.random() * 11);
+        System.out.println(Math.random() * 1);
 
     }
 }
